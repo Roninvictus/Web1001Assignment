@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Web1001Assignment.Views.Home;
+namespace Web1001Assignment.Controllers;
 
 public class Intro : Controller
 {
